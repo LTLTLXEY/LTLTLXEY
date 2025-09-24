@@ -1,10 +1,9 @@
 <div align="center">
-  
-# Hi there 👋
 
-## 网络安全工程师 | 安全研究员
-
-**Web安全、代码审计、安全开发、运维、当牛马**
+<!-- dynamic typing effect 动态打字效果 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Lekton&weight=700&size=25&pause=1000&color=BE5EF7&center=true&width=435&lines=%40EVAL(%22Hi!I_Am_LTLTLXEY%22);" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -18,38 +17,42 @@
 
 ## 🍚 赛博乞讨
 
-- **如果我的工作为您的项目带来了帮助，您可以在爱发电中请我喝杯蜜雪冰城QWQ，3Q**
-- [爱发电](https://www.ifdian.net/a/ltltlxey)
+- **如果我的工作为您的项目带来了帮助，您可以在[爱发电](https://www.ifdian.net/a/ltltlxey)中请我喝杯蜜雪冰城QWQ，3Q**
 - 如果有 长期工作/短期项目 机会的话也欢迎联系我邮箱
 
 ## 📝 个人博客
 
-我经常在个人博客上分享技术文章和安全研究心得：
+* 我经常在个人博客上分享技术文章和安全研究心得：
 
-🔗 [https://ltlt.cc](https://ltlt.cc)
+🔗 [赛博名片](https://ltlt.cc)
 
 ## 🎯 当前关注
 
 - Web应用安全漏洞挖掘与防护
-- 自动化安全工具开发
-- 安全开发生命周期(SDLC)实践
-- 云原生环境下的安全挑战
+- 基于AI的SAST+系统研发
+- 安全开发生命周期(SDLC)
+- AI自动化渗透测试Agent训练与研发
+- 无感知内网渗透技术
 
 ## 📫 联系我
 
 - 📧 邮箱: ltlt-ecy@qq.com
 - 💼 欢迎技术交流与合作
+- ✨ **White Hat. Ethical only. No gray areas.**
 
 ## 🎮 业余生活
 
 工作之余，我喜欢：
 - 挖掘各类应用的安全漏洞
 - 打游戏放松身心
+- 单身🐕 二刺螈
 
 ---
 
 <div align="center">
 
-_"在安全的道路上，永不止步"_
+_在安全的道路上，永不止步_
+</br>
+_Obey the law, and I am free._
 
 </div>
