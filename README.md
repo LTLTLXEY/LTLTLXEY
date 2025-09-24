@@ -4,7 +4,7 @@
 
 ## 网络安全工程师 | 安全研究员
 
-**专注于Web安全、代码审计、安全开发与运维**
+**Web安全、代码审计、安全开发、运维、当牛马**
 
 </div>
 
@@ -16,10 +16,11 @@
 - **编程语言**: Python | PHP | Java | Golang | JavaScript
 - **工具与框架**: 熟悉主流安全工具与开发框架
 
-## 赛博讨口子
+## 🍚 赛博乞讨
 
-- 如果我的工作为您的项目带来了帮助，您可以选择请我喝杯蜜雪冰城QWQ，3Q
-- https://www.ifdian.net/a/ltltlxey
+- **如果我的工作为您的项目带来了帮助，您可以在爱发电中请我喝杯蜜雪冰城QWQ，3Q**
+- [爱发电](https://www.ifdian.net/a/ltltlxey)
+- 如果有 长期工作/短期项目 机会的话也欢迎联系我邮箱
 
 ## 📝 个人博客
 
@@ -52,8 +53,3 @@
 _"在安全的道路上，永不止步"_
 
 </div>
-
-<!-- 这里可以放置GitHub统计信息 -->
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
--->
