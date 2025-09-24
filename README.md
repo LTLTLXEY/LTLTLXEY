@@ -16,6 +16,11 @@
 - **编程语言**: Python | PHP | Java | Golang | JavaScript
 - **工具与框架**: 熟悉主流安全工具与开发框架
 
+## 赛博讨口子
+
+- 如果我的工作为您的项目带来了帮助，您可以选择请我喝杯蜜雪冰城QWQ，3Q
+- https://www.ifdian.net/a/ltltlxey
+
 ## 📝 个人博客
 
 我经常在个人博客上分享技术文章和安全研究心得：
