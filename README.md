@@ -4,7 +4,10 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Lekton&weight=700&size=25&pause=1000&color=BE5EF7&center=true&width=435&lines=EVAL(%22Hi!I_Am_LTLTLXEY%22);;" alt="Typing SVG" />
 </a>
-
+<br/>
+<p align="center">
+<a href="https://github.com/LTLTLXEY">🇨🇳 中文</a> | <a href="README-EN.md">🇺🇸 English</a>
+</p>
 </div>
 
 ---
