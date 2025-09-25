@@ -22,7 +22,7 @@
 
 ## 📝 个人博客
 
-* 我的博客 🔗 [赛博名片](https://ltlt.cc)
+* 我的博客 🔗 <a href="https://ltlt.cc" target="_blank" style="text-decoration: none; color: inherit;">赛博名片</a>
 
 ## 🎯 当前关注
 
