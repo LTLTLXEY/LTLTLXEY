@@ -2,7 +2,7 @@
 
 <!-- dynamic typing effect 动态打字效果 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lekton&weight=700&size=25&pause=1000&color=BE5EF7&center=true&width=435&lines=%40EVAL(%22Hi!I_Am_LTLTLXEY%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lekton&weight=700&size=25&pause=1000&color=BE5EF7&center=true&width=435&lines=EVAL(%22Hi!I_Am_LTLTLXEY%22);;" alt="Typing SVG" />
 </a>
 
 </div>
